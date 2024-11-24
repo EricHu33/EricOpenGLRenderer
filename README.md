@@ -2,29 +2,29 @@
 
 A OpenGL renderer include below features:
  - Forward Shading, Deferred Shading
- #### Forward+ Rendering 
-   - Using Compute shader to cull lights by tiles, store lights into one SSBO)
- #### PBR
-   - Mostly from google filament, also inspired some algo from Unity/UE
- #### Cloth PBR
-   - Unity HDRP, google filament
- #### Skin PBR
-   - Using The Order 1886's method, preintegrated SSS
- #### Cascaded Shadow Map
-   - improved version of LearnOpenGL, no edge swimming issue
- #### PCSS shadow
- #### Physics Based Light Unit
-   - Google filement
- #### Using Spherical Harmonics for indirect light source
-   - Thanks to MJP's BakingLab repo
- #### FXAA (NVDA paper)
- #### HBAO (NVDA paper)
- #### SSAO
- #### RSM
-   - Does not perform well so disable by default
- #### Skinned Animation
-   - Improved version of LearnOpenGL, with faster bone-mapping speed during skinning and overall faster execution time by SSE/AVX and multithreading
- #### imgui and some scene widget
+ - Forward+ Rendering 
+   > Using Compute shader to cull lights by tiles, store lights into one SSBO)
+ - PBR
+   > Mostly from google filament, also inspired some algo from Unity/UE
+ - Cloth PBR
+   > Unity HDRP, google filament
+ - Skin PBR
+   > Using The Order 1886's method, preintegrated SSS
+ - Cascaded Shadow Map
+   > improved version of LearnOpenGL, no edge swimming issue
+ - PCSS shadow
+ - Physics Based Light Unit
+   > Google filement
+ - Using Spherical Harmonics for indirect light source
+   > Thanks to MJP's BakingLab repo
+ - FXAA (NVDA paper)
+ - HBAO (NVDA paper)
+ - SSAO
+ - RSM
+   > Does not perform well so disable by default
+ - Skinned Animation
+   > Improved version of LearnOpenGL, with faster bone-mapping speed during skinning and overall faster execution time by SSE/AVX and multithreading
+ - imgui and some scene widget
 
 ## Demo scenes
 
