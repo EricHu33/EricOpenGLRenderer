@@ -1,0 +1,38 @@
+{
+    "float": {
+        "_UseParallaxMapping": 0.0,
+        "_heightScale": 0.0,
+        "_metallic": 0.0,
+        "_normalStrength": 0.20000000298023224,
+        "_roughness": 0.4000000059604645,
+        "_uvScale": 4.0
+    },
+    "int": {
+        "_parallaxSteps": 32,
+        "_useColorOnly": 0,
+        "_useOcclusionRoughMetalMap": 0
+    },
+    "texture": {
+        "_baseMap": "D:\\LearnOpenGL\\MyOpenGL\\resources\\textures\\t_brick_floor_002_diffuse_1k.png",
+        "_baseMap_sampler": 0,
+        "_depthMap": "D:\\LearnOpenGL\\MyOpenGL\\x64\\Debug\\..\\..\\resources/models/parallax_mapping_height_map3.jpg",
+        "_depthMap_sampler": 5,
+        "_normalMap": "D:\\LearnOpenGL\\MyOpenGL\\resources\\textures\\t_brick_floor_002_nor_gl_1k.png",
+        "_normalMap_sampler": 1
+    },
+    "vec3": {
+        "_cameraPos": {
+            "x": -2.3615195751190186,
+            "y": 3.8621790409088135,
+            "z": 3.3100199699401855
+        }
+    },
+    "vec4": {
+        "_baseColor": {
+            "w": 1.0,
+            "x": 0.30000001192092896,
+            "y": 0.30000001192092896,
+            "z": 0.30000001192092896
+        }
+    }
+}

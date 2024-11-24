@@ -1,0 +1,36 @@
+{
+    "float": {
+        "_UseParallaxMapping": 0.0,
+        "_heightScale": 1.0,
+        "_metallic": 0.20000000298023224,
+        "_normalStrength": 0.5,
+        "_roughness": 0.0,
+        "_uvScale": 1.0
+    },
+    "int": {
+        "_parallaxSteps": 1,
+        "_useColorOnly": 0,
+        "_useOcclusionRoughMetalMap": 1
+    },
+    "texture": {
+        "_baseMap": "D:\\LearnOpenGL\\MyOpenGL\\resources\\models\\Vampire_diffuse.png",
+        "_baseMap_sampler": 0,
+        "_normalMap": "D:\\LearnOpenGL\\MyOpenGL\\resources\\models\\Vampire_normal.png",
+        "_normalMap_sampler": 2
+    },
+    "vec3": {
+        "_cameraPos": {
+            "x": -3.9595136642456055,
+            "y": 3.7708780765533447,
+            "z": -0.6239559054374695
+        }
+    },
+    "vec4": {
+        "_baseColor": {
+            "w": 1.0,
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    }
+}
